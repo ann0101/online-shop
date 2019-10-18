@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Pineapple",
+        "image": "pineapple.jpg",
+        "description": "Best beautiful fruit in the World",
+        "price": 26989.91
     }
 ]
